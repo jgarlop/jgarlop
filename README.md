@@ -11,6 +11,4 @@ I've been working on a lot of private repos but for 2021 my main goal is to crea
 [<img aling="left" width="22px" src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" />](https://twitter.com/ReivajGL)
 [<img aling="left" width="22px" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" />](https://www.linkedin.com/in/javigarcialopez/)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jgarlop&count_private=true&theme=dark&show_icons=true)
-
 
