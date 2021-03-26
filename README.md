@@ -4,7 +4,7 @@ I work as an iOS junior developer, I love Swift and right now I'm working on imp
 I've been working on a lot of private repos but for 2021 my main goal is to create side and pet projects to show my work and ideas to everyone.
 
 - 🔭 I’m currently working on [Z1 Digital Studio](https://z1.digital/)
-- 🌱 I’m currently learning Swift and related techonlogies (SwiftUI, RxSwift, etc.)
+- 🌱 Learning Swift and related techonlogies (SwiftUI, RxSwift, etc.)
 - 🥅 2021 Goals: Improve this repo and fill it with new projects! Stay tuned!
 
 #### Connect with me:
